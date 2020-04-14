@@ -1,0 +1,8 @@
+group 'pl.whiter13'
+version '1.0-SNAPSHOT'
+
+allprojects {
+    repositories {
+        mavenCentral()
+    }
+}
